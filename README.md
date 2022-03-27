@@ -1,1 +1,1 @@
-# mini-bloging-project
+# Project 1
